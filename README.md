@@ -25,3 +25,6 @@ This project implements **Human Activity Recognition (HAR)** using sensor data c
 │   - A comprehensive guide to the project, including structure, usage instructions, and methodology.
 
 ```
+The dataset can be found on the UCI Machine Learning Repository : https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013
