@@ -28,3 +28,8 @@ This project implements **Human Activity Recognition (HAR)** using sensor data c
 The dataset can be found on the UCI Machine Learning Repository : https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013
+
+Feature extraction was based on distribution analysis of features during the EDA phase across multiple activities. This approach aims to help the model converge faster by identifying potential label inference from one or more features. For example, the feature tBodyAccMag-mean() can distinguish between static and dynamic activities.
+
+![tBodyAccMag-mean](https://github.com/Warzn/Human-Activity-Recognition/blob/main/EDA_Visualizations/Probability%20Density%20of%20tBodyAccMag-mean()%20by%20Activity.png)
+
